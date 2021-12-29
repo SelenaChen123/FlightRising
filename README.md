@@ -1,4 +1,4 @@
-# FlightRising
+# Flight Rising
 
 ## Table of Contents
 
