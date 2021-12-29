@@ -20,4 +20,4 @@
     - Silver
     - Gold
 
-###### [Back To Table Of Contents](https://github.com/SelenaChen123/ChickenSmoothie/blob/main/README.md#chicken-smoothie)
+###### [Back To Table Of Contents](https://github.com/SelenaChen123/FlightRising/blob/main/README.md#flight-rising)
